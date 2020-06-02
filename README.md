@@ -7,12 +7,12 @@ Basis Point Spread indicates the additional return a mutual fund would give over
 Learnings from the project
 Apply linear model using GridsearchCV. Concepts utilised
 
- Chi square contengency test
- Box plot
- Linear regression
- GridsearchCV
- Ridge and Lasso Regressor
-Approach taken to solve the problem
+ - Chi square contengency test
+ - Box plot
+ - Linear regression
+ - GridsearchCV
+ - Ridge and Lasso Regressor
+- Approach taken to solve the problem
 Steps involved:
 
 Perform Chi-Square test to check assosciation between features and remove the same so that the assumption for linear regression model is satisfied.
